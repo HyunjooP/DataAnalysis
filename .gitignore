@@ -1,9 +1,12 @@
+# HyunjooP add
+kakaoapikey.txt
+roadapikey.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
-kakaoapikey.txt
-roadapikey.txt
+
 
 
 # C extensions
