@@ -5,6 +5,7 @@ password.txt
 mysql.json
 movie/
 credits.csv
+books.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
